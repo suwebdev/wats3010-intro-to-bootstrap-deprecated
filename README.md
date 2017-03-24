@@ -4,8 +4,8 @@ For this project you will engage with a powerful CSS framework called Bootstrap.
 Bootstrap is known for its ease of use and flexibility. It has become one of the
 most common CSS frameworks in use on modern websites, and it shows up everwhere.
 
-(For additional information about Bootstrap please reference the
-(Official Bootstrap Documentation Site)[https://getbootstrap.com/].)
+For additional information about Bootstrap please reference the
+[Official Bootstrap Documentation Site](https://getbootstrap.com/).
 
 In this project you will be asked to assemble a linked website for an imaginary
 business. You will be required to fill in certain aspects of the code, provide
@@ -32,7 +32,7 @@ website.
 During the design phase you will plan your project and gather all of the
 materials you will use to build your site in the next phase. For reference, you
 can view the full, working template that you have been given on the author's
-website: (View preview of Modern Business theme.)[https://blackrockdigital.github.io/startbootstrap-modern-business/]
+website: [View preview of Modern Business theme.](https://blackrockdigital.github.io/startbootstrap-modern-business/)
 
 Please note: You have all of the files for this theme in your current repository,
 but they have been altered so that you must make them work properly.
@@ -86,9 +86,9 @@ homepage render properly on mobile browsers.
 * In the `index.html` file, find the `TODO` comment indicating where you should
 add your image URLs to the HTML markup that creates the Carousel.
 * In the `index.html` file, find the "Portfolio Heading" section and apply the proper
-classes to make that section use the proper grid layout ((as seen here))[https://blackrockdigital.github.io/startbootstrap-modern-business/index.html].
+classes to make that section use the proper grid layout ([as seen here](https://blackrockdigital.github.io/startbootstrap-modern-business/index.html)).
 * Add navigation menus to all of the pages you have chosen to use in your site.
-Consult the (Bootstrap Documentation for Nav Bars)[http://getbootstrap.com/components/#navbar]
+Consult the [Bootstrap Documentation for Nav Bars](http://getbootstrap.com/components/#navbar)
 for additional help creating your navigation menus.
   * You must have at least four links (counting the "Home" link) in your nav menu
   * You may have more links in your navigation menu if you choose
